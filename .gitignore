@@ -152,3 +152,4 @@ cython_debug/
 #.idea/
 rating_prediction/data/long_reviews.csv
 rating_prediction/data/reviews_sample.csv
+rating_prediction/paper/~$ting_prediction.docx
